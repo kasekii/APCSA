@@ -1,0 +1,24 @@
+Sequential and Binary Search
+
+Bubble Sort, Selection Sort and Insertion sort
+
+Mergesort and Quicksort
+
+
+
+
+
+Sequential or linear search 
+//Linear and Binary Search
+
+Linear searching searches easch element until it finds it's target until it finds it or until it
+searches the whole array
+
+Binary Much faster, but array must be sorted first.
+
+
+
+
+Linear Search/Sequential Search 
+A method for finding a [articular value in a list that consists of checking everyone one of its
+elements, one at a time and in sequence, until the desired one is found
